@@ -52,7 +52,8 @@ This project is part of a machine learning task focused on classification. The g
 ---
 
 ## 📈 Results
-
+<img src = "images/conf.jpg">
+<img src = "images/fea-imp.jpg">
 
 ---
 
